@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samfoodies-react/static/css/main.5d99e170.css",
+    "main.js": "/samfoodies-react/static/js/main.453390c7.js",
+    "static/js/787.ddc2e0b7.chunk.js": "/samfoodies-react/static/js/787.ddc2e0b7.chunk.js",
+    "index.html": "/samfoodies-react/index.html",
+    "main.5d99e170.css.map": "/samfoodies-react/static/css/main.5d99e170.css.map",
+    "main.453390c7.js.map": "/samfoodies-react/static/js/main.453390c7.js.map",
+    "787.ddc2e0b7.chunk.js.map": "/samfoodies-react/static/js/787.ddc2e0b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d99e170.css",
+    "static/js/main.453390c7.js"
+  ]
+}
